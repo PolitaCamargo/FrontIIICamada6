@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Page-Object-Model-POM-Design-With-Selenium-master/FreeCRMTest.iml" filepath="$PROJECT_DIR$/Page-Object-Model-POM-Design-With-Selenium-master/FreeCRMTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Page-Object-Model-POM-Design-With-Selenium-master.iml" filepath="$PROJECT_DIR$/.idea/Page-Object-Model-POM-Design-With-Selenium-master.iml" />
+    </modules>
+  </component>
+</project>
